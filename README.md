@@ -35,3 +35,5 @@ My CS-499 Capstone ePortfolio
 
 * Add a location field and role-based access controls to improve filtering and security
 
+
+**UPDATE:** I have made modifications to additional frontend components (such as `trip-card.component.html`) to demonstrate my skills in database enhancements by implementing the `location` field and enforcing role-based access controls for admin and regular users.
