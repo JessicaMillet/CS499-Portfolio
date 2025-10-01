@@ -1,6 +1,9 @@
 # Welcome to CS499-Portfolio
 My CS-499 Capstone ePortfolio
 
+## Professional Self-Assessment
+Click the link to see [Professional Self-Assessment](Professional_Self_Assessment.md)
+
 # Code Review - Travlr Getaways
 
 **Author**: Jessica Millet
@@ -11,7 +14,7 @@ My CS-499 Capstone ePortfolio
 
 ## My Code Review Video
 
-[Click this link to watch the video](https://www.dropbox.com/scl/fi/2wrfhek0ft3zcxj4kelc5/Travlr-Getaways-Code-Review.mp4?rlkey=gmq60dhkjmo4vg1hruoivjjm4&st=ggvr7bpl&dl=0) 
+[Click this link to watch the video](https://www.dropbox.com/scl/fi/2wrfhek0ft3zcxj4kelc5/Travlr-Getaways-Code-Review.mp4?rlkey=gmq60dhkjmo4vg1hruoivjjm4&st=ggvr7bpl&raw=1) 
 
 **Note**: This video shows the original artifact and explains the areas in my code that I will make my enhancements to based on Software Design and Engineering, Algorithms and Data Structures, and Databases. 
 
