@@ -43,6 +43,6 @@ Click the link to see [Professional Self-Assessment](Professional_Self_Assessmen
 
 ## Enhancement Narratives
 
-- [Enhancement 1: Software Engineering and Design](https://www.dropbox.com/scl/fi/sit38vw2a5dqpzkpfni7q/3-2-Milestone-Two-Enhancement-One-Software-Design-and-Engineering-Millet.docx?rlkey=08yc14tz1rq3bd3s67bxmptoh&st=jv5upuy2&dl=0)
-- [Enhancement 2: Algorithms and Data Structures](https://www.dropbox.com/scl/fi/o7lyup9m47o3pi5dftv16/4-_2-Milestone_-Three-Enhancement-Two-Algorithms-and-Data-Structure-Millet.docx?rlkey=45eugz2svd981el4nk7fflwad&st=v6oufnu2&dl=0)
-- [Enhancement 3: Databases](https://www.dropbox.com/scl/fi/kxqb844xisvmhiakk9wgx/5-2-Milestone-Four-Enhancement-Three-Databases-Millet.docx?rlkey=abat69hqtqu6vkhm5nf15rl8w&st=t4wvedt5&dl=0)
+- [Enhancement 1: Software Engineering and Design](Enhancement1_Software_Engineering_And_Design.zip)
+- [Enhancement 2: Algorithms and Data Structures](Enhancement2_Algorithms_And_Data_Structure.zip)
+- [Enhancement 3: Databases](Enhancement3_Databases.zip)
